@@ -1,0 +1,9 @@
+Problem Statement:
+===================
+
+1. Accept coins of 1,5,10,25 cents i.e penny,nickel,dime and quarter
+2. Allow user to select product Coke(25),Pepsi(35),Soda(45)
+3. Allow user to take refund by cancelling the product.
+4. Return selected product and remaining change if any
+5. Allow reset option for vending machine supplier
+
