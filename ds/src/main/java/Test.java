@@ -3,6 +3,8 @@ public class Test {
 
     public static void main(String[] args) {
 
-        System.out.println(7/2);
+
+       String testStr = "Divya";
+        System.out.println(testStr.charAt(0));
     }
 }

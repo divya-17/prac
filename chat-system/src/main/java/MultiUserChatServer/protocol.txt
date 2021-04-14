@@ -1,0 +1,14 @@
+
+Commands:
+=========
+login <username> <password>
+msg <user> text...
+logoff
+quit
+
+Group messaging:
+==============
+#topic <- chatroom /group chat
+join #topic
+msg #topic text ...
+leave #topic
