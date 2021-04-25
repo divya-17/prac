@@ -28,6 +28,8 @@
 			<name>libs-release</name>
 			<url>http://artifactory.ops.snapdeal.io:8080/libs-release-local</url>
 		</repository>
+
+
 	</distributionManagement>
   <repositories>
     <repository>
@@ -106,6 +108,15 @@
           <artifactId>hibernate-entitymanager</artifactId>
           <version>5.1.0.Final</version>
       </dependency>
+
+
+<!--      &lt;!&ndash; https://mvnrepository.com/artifact/org.openjfx/javafx &ndash;&gt;-->
+<!--      <dependency>-->
+<!--          <groupId>org.openjfx</groupId>-->
+<!--          <artifactId>javafx</artifactId>-->
+<!--          <version>11</version>-->
+<!--          <type>pom</type>-->
+<!--      </dependency>-->
 
   </dependencies>
 

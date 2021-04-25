@@ -1,6 +1,6 @@
 package ArraysQues;
 
-import javafx.util.Pair;
+//import javafx.util.Pair;
 
 import javax.persistence.criteria.CriteriaBuilder;
 import java.util.Stack;
