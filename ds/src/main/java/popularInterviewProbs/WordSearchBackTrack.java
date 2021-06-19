@@ -1,4 +1,4 @@
-package ArraysQues;
+package popularInterviewProbs;
 
 //import javafx.util.Pair;
 

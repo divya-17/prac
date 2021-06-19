@@ -1,0 +1,14 @@
+Singleton Design pattern:
+
+We should have single instance of the class.
+
+1- Constructor should be private
+2- Public method for returning instance
+3- Instance type- private static
+
+Initialization type:
+
+1- Eager initialization
+2- Lazy initialization
+3- Thread safe method initialization
+4- Thread safe block initialization

@@ -1,0 +1,13 @@
+Factory Design Pattern
+
+Properties:
+----------
+1- Used when we have multiple sub classes of a super class and based on the input we want to return one instance/
+2- Provide abstraction b/w actual actual impl and client classes.
+3- Remove instantiation of client classes from client code.
+
+Impl
+----
+
+1- Super class can be an abstract class, an interface or a basic class
+2- Factory class will have a static method that will return the instance of these sub classes

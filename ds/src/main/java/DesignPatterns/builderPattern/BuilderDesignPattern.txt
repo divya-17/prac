@@ -1,0 +1,6 @@
+Builder Design Pattern
+
+1- Used when we have too many arguments to send in the constructor and it's hard to maintain order
+2- When we don't want to send all parameters in Object initialization(Generally we send optional paramaters as null)
+
+Impl:
