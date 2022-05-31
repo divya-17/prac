@@ -3,6 +3,8 @@ package heaps;
 import java.util.ArrayList;
 import java.util.List;
 /*
+https://www.youtube.com/watch?v=ywx-Onrdx4U
+
 Min heap is a binary tree structure that have nodes sorted in ascending order.
 Ex: Below in a min heap.
 

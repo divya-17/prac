@@ -25,7 +25,8 @@ Valid patterns are:
 
 O/p: [111,110,101]
  */
-public class NbitBinaryNumRecursion {
+public class
+NbitBinaryNumRecursion {
 
     public static void main(String[] args) {
 

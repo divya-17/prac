@@ -1,7 +1,5 @@
 package stacks.impl;
 
-import com.sun.xml.internal.ws.api.message.ExceptionHasMessage;
-
 /*
 Design a stack with increment operation:
 
